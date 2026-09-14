@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Random Quote Generator</string>
+    <string name="app_name_display">QUOTELY</string>
+    <string name="inspiration_subtitle">A little inspiration for your day</string>
+    <string name="default_quote">Believe you can and you are halfway there.</string>
+    <string name="default_author">Theodore Roosevelt</string>
+    <string name="new_quote">New Quote</string>
+    <string name="tap_for_inspiration">Tap for a fresh dose of inspiration</string>
+
+</resources>

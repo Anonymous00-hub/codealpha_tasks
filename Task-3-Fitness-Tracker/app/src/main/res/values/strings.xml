@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Fitness Tracker</string>
+    <string name="good_morning">Good morning</string>
+    <string name="fitness_subtitle">Keep moving today</string>
+    <string name="todays_progress">Todays Progress</string>
+    <string name="calories">Calories</string>
+    <string name="workout_time">Workout Time</string>
+    <string name="todays_activity">Todays Activity</string>
+    <string name="steps">Steps</string>
+    <string name="log_activity">Log Activity</string>
+    <string name="weekly_progress">Weekly Progress</string>
+    <string name="weekly_summary_empty">No activity logged yet.</string>
+
+</resources>
